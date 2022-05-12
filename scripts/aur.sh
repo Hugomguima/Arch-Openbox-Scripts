@@ -7,7 +7,7 @@ sudo pacman -Syu --noconfirm
 sudo pacman -S yay --noconfirm
 
 ### Packages that can be installed by pacman
-yay -S discord caprine spotify code flameshot github-desktop stremio libreoffice --noconfirm
+yay -S discord caprine spotify code flameshot github-desktop stremio libreoffice obsidian --noconfirm
 
 ### Packages from the AUR
 yay -S google-chrome whatsapp-for-linux snapd qtws-base python-pulsectl caffeine-ng --noconfirm
