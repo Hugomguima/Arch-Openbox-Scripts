@@ -7,7 +7,7 @@ sudo pacman -Syu --noconfirm
 sudo pacman -S yay --noconfirm
 
 ### Packages that can be installed by pacman
-yay -S discord caprine spotify code flameshot github-desktop stremio qpdf libreoffice obsidian docker docker-compose vlc qbittorrent krita blender gedit thunderbird --noconfirm
+yay -S discord caprine spotify visual-studio-code-bin flameshot github-desktop stremio qpdf libreoffice obsidian docker docker-compose vlc qbittorrent krita blender gedit thunderbird --noconfirm
 
 ### Packages from the AUR
-yay -S google-chrome whatsapp-for-linux snapd qtws-base python-pulsectl caffeine-ng-git --noconfirm
+yay -S google-chrome whatsapp-nativefier caffeine-ng-git --noconfirm
